@@ -15,7 +15,7 @@ All tests pass by design. The tests named "the bug" assert the wrong behavior so
 | `02-graceful-failure` | Ops must be able to switch checkout off during an incident | That nothing throws |
 | `03-small-fixture` | Delete every expired session | 3 rows, with a page size of 100 |
 
-I wrote these to illustrate each pattern. They are not logs of any AI tool's output or code from a real company. I wrote them with substantial help from an AI assistant, and nobody has measured whether the rules around them speed up review or reduce incidents.
+These illustrate each pattern, and they are not from a real incident or a real company's code. An AI assistant drafted much of this work, and I approved it. Nobody has measured whether the rules around them speed up review or reduce incidents.
 
 `templates/` holds a ten-question review rubric that prints on one page, and a PR template you can copy to `.github/pull_request_template.md`.
 

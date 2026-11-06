@@ -15,4 +15,4 @@ node --test
 
 All tests pass by design: the tests named "the bug" assert the wrong behavior so that you can see it.
 
-The author wrote these examples to illustrate each pattern. They are not logs of any AI tool's output, and they are not taken from any real company's code.
+These examples illustrate each pattern, and they are not from a real incident or a real company's code. An AI assistant drafted much of this work, and the publisher approved it.
